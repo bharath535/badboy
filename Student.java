@@ -5,6 +5,7 @@ public class Student {
 	private int age;
 	private int rollNo;
 	private boolean isMale;
+	int year;
 	
 	
 	public void setName(String name) {
